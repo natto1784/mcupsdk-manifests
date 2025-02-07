@@ -67,10 +67,10 @@ manifest:
     revision: refs/tags/REL.MCUSDK.10.00.00.37
   remotes:
   - name: origin
-    url-base: https://github.com/TexasInstruments
+    url-base: https://github.com/TexasInstruments/
   - name: freertos
-    url-base: https://github.com/FreeRTOS
+    url-base: https://github.com/FreeRTOS/
   - name: lwip
-    url-base: https://git.savannah.gnu.org/git
+    url-base: git://git.savannah.gnu.org/
   - name: mbedtls
-    url-base: https://github.com/Mbed-TLS
+    url-base: https://github.com/Mbed-TLS/

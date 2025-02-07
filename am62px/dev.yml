@@ -32,4 +32,4 @@ manifest:
     revision: refs/tags/v09.01.08
   remotes:
   - name: origin
-    url-base: https://github.com/TexasInstruments
+    url-base: https://github.com/TexasInstruments/

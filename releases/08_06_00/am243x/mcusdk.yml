@@ -67,16 +67,16 @@ manifest:
     revision: refs/tags/REL.MCUSDK.08.06.00.46
   remotes:
   - name: comm
-    url-base: ssh://git@bitbucket.itg.ti.com
+    url-base: ssh://git@bitbucket.itg.ti.com/
   - name: origin
-    url-base: https://github.com/TexasInstruments
+    url-base: https://github.com/TexasInstruments/
   - name: freertos
-    url-base: https://github.com/FreeRTOS
+    url-base: https://github.com/FreeRTOS/
   - name: lwip
-    url-base: https://git.savannah.gnu.org/git
+    url-base: git://git.savannah.gnu.org/
   - name: tinyusb
-    url-base: https://github.com/hathach
+    url-base: https://github.com/hathach/
   - name: armmbed
-    url-base: https://github.com/ARMmbed
+    url-base: https://github.com/ARMmbed/
   - name: mbedtls
-    url-base: https://github.com/Mbed-TLS
+    url-base: https://github.com/Mbed-TLS/

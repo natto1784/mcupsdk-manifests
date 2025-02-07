@@ -45,10 +45,15 @@ manifest:
     remote: origin
     repo-path: tifs-mcu-common
     revision: next
+  - name: ethernet-rtos-drivers
+    path: mcu_plus_sdk/source/board/ethphy/enet
+    remote: origin
+    repo-path: ethernet-rtos-drivers
+    revision: refs/tags/v2024.04
   remotes:
   - name: origin
-    url-base: https://github.com/TexasInstruments
+    url-base: https://github.com/TexasInstruments/
   - name: freertos
-    url-base: https://github.com/FreeRTOS
+    url-base: https://github.com/FreeRTOS/
   - name: lwip
-    url-base: https://git.savannah.gnu.org/git
+    url-base: https://git.savannah.gnu.org/git/

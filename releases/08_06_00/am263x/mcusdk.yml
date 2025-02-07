@@ -47,10 +47,10 @@ manifest:
     revision: refs/tags/mbedtls-2.13.1
   remotes:
   - name: origin
-    url-base: https://github.com/TexasInstruments
+    url-base: https://github.com/TexasInstruments/
   - name: freertos
-    url-base: https://github.com/FreeRTOS
+    url-base: https://github.com/FreeRTOS/
   - name: lwip
-    url-base: https://git.savannah.gnu.org/git
+    url-base: git://git.savannah.gnu.org/
   - name: mbedtls
-    url-base: https://github.com/Mbed-TLS
+    url-base: https://github.com/Mbed-TLS/

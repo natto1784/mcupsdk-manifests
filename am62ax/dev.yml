@@ -15,6 +15,11 @@ manifest:
     remote: origin
     repo-path: mcupsdk-FreeRTOS-Kernel
     revision: refs/tags/MCUSDK_V10.6.1_MAIN
+  - name: mcupsdk-FreeRTOS-Kernel:MCUSDK_REL.09.01.00_SMP
+    path: mcu_plus_sdk/source/kernel/freertos/FreeRTOS-Kernel-smp
+    remote: origin
+    repo-path: mcupsdk-FreeRTOS-Kernel
+    revision: refs/tags/MCUSDK_REL.09.01.00_SMP
   - name: mcupsdk-FreeRTOS-Posix
     path: mcu_plus_sdk/source/kernel/freertos/FreeRTOS-POSIX
     remote: origin
@@ -57,8 +62,8 @@ manifest:
     revision: refs/tags/STABLE-2_2_0_RELEASE
   remotes:
   - name: origin
-    url-base: https://github.com/TexasInstruments
+    url-base: https://github.com/TexasInstruments/
   - name: lwip
-    url-base: https://git.savannah.gnu.org/git
+    url-base: https://git.savannah.gnu.org/git/
   - name: mbedtls
-    url-base: https://github.com/Mbed-TLS
+    url-base: https://github.com/Mbed-TLS/
